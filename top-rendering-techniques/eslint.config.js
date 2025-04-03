@@ -28,6 +28,8 @@ export default [
         'warn',
         { allowConstantExport: true },
       ],
+      // Your other rules
+      "react/prop-types": "off",
     },
   },
 ]
